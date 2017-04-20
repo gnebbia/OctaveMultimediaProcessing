@@ -1,0 +1,23 @@
+1 - Download or register an audio file in one of the format which can be taken as input by Matlab (i.e.,
+.WAV)
+
+
+2 - Perform a dct on the audio signal, plot the coefficient.
+
+
+3 - Threshold the dct coefficient trying different thresholding schemes and recover the signal. Listen to the
+signal to understand the effects.
+
+
+4 - Perform a wavelet transform on the audio signal, plot the coefficient.
+
+
+5 - Threshold the wavelet coefficients trying different thresholding schemes and recover the signal. Listen
+to the signal to understand the effects. (Hints: try as first experiment, to discard a complete band
+
+
+6 - Try to use dct or wavelet to denoise the audio signal. If the audio signal is not noisy (i.e., it is not the
+result of a recording) add a noise to the original signal.
+
+
+7 - Plot the spectrogram of the signal.
